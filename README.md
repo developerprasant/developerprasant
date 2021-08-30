@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src="https://cdn.discordapp.com/emojis/843572666015416340.gif?v=1" align="right">
 
 I am Prasant a student and a programmer. 
 
@@ -8,7 +9,7 @@ I am Prasant a student and a programmer.
 
 ![](https://activity-graph.herokuapp.com/graph?username=prasantdev&theme=react-dark)
 
-
+[![GitHub followers](https://img.shields.io/github/followers/prasantdev?label=Prasant&style=social)](https://github.com/prasantdev) 
 <!--
 **prasantdev/prasantdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
