@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://cdn.discordapp.com/emojis/843572666015416340.gif?v=1" align="right" style="background:red; border:2px solid green;">
+<img src="https://cdn.discordapp.com/emojis/843572666015416340.gif?v=1" align="right">
 
 I am Prasant a student and a programmer. 
 
