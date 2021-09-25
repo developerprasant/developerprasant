@@ -3,6 +3,14 @@
 
 I am Prasant a student and a programmer. 
 
+### Projects
+
+- [Learns](https://learns.js.org/) - [https://learns.js.org/](https://learns.js.org/)
+- [LazyCoder](https://lazycoder.js.org/) - [https://lazycoder.js.org/](https://lazycoder.js.org/)
+- [Aalsa chatbot](https://prasantdev.github.io/Aalsa-previewer/) - [https://prasantdev.github.io/Aalsa-previewer/](https://prasantdev.github.io/Aalsa-previewer/)
+- [Aalsa Discord Bot](https://discord.com/oauth2/authorize?client_id=852560696482463744&scope=bot&permissions=8589934583) - [https://discord.com/oauth2/authorize?client_id=852560696482463744&scope=bot&permissions=8589934583](https://discord.com/oauth2/authorize?client_id=852560696482463744&scope=bot&permissions=8589934583)
+- [Smash Problems](https://prasantdev.github.io/smash-problems/) - [https://prasantdev.github.io/smash-problems/](https://prasantdev.github.io/smash-problems/)
+
 ### stats
 [![Prasant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasantdev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasantdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
