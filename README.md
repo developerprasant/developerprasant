@@ -1,7 +1,7 @@
 ## Hi there 👋
 <img src="https://cdn.discordapp.com/emojis/843572666015416340.gif?v=1" align="right">
 
-I am Prasant a student and a programmer. 
+I am Prasant a self taught programmer. 
 
 ### Projects
 
