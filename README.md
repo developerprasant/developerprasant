@@ -10,6 +10,7 @@ I am Prasant a student and a programmer.
 - [Aalsa chatbot](https://prasantdev.github.io/Aalsa-previewer/) - [https://prasantdev.github.io/Aalsa-previewer/](https://prasantdev.github.io/Aalsa-previewer/)
 - [Aalsa Discord Bot](https://discord.com/oauth2/authorize?client_id=852560696482463744&scope=bot&permissions=8589934583) - [https://discord.com/oauth2/authorize?client_id=852560696482463744&scope=bot&permissions=8589934583](https://discord.com/oauth2/authorize?client_id=852560696482463744&scope=bot&permissions=8589934583)
 - [Smash Problems](https://prasantdev.github.io/smash-problems/) - [https://prasantdev.github.io/smash-problems/](https://prasantdev.github.io/smash-problems/)
+- [Learns node package](https://prasant.vercel.app/) - [https://prasant.vercel.app/](https://prasant.vercel.app/)
 
 ### stats
 [![Prasant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasantdev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
