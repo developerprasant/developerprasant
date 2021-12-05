@@ -2,6 +2,8 @@
 <img src="https://cdn.discordapp.com/emojis/843572666015416340.gif?v=1" align="right">
 
 I am Prasant a self taught programmer. 
+<br>
+<hr>
 
 [![GitHub followers](https://img.shields.io/github/followers/prasantdev?label=Prasant&style=social)](https://github.com/prasantdev) [![sololearn](https://img.shields.io/badge/-Sololearn-deepskyblue?logo=sololearn&logoColor=white&color=cornflowerblue&labelColor=grey&style=flat-square)](https://www.sololearn.com/Profile/18228121) [![dev](https://img.shields.io/badge/-DEV.to-deepskyblue?logo=devdotto&logoColor=black&color=grey&labelColor=DFDFDF&style=flat-square)](https://dev.to/prasant) [![stackoverflow](https://img.shields.io/badge/-Stackoverflow-deepskyblue?logo=stackoverflow&logoColor=orange&color=grey&labelColor=DFDFDF&style=flat-square)](https://stackoverflow.com/users/16797931/prasant)
 
