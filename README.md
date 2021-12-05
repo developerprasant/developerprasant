@@ -6,7 +6,10 @@ I am Prasant a self taught programmer.
 <hr>
 
 [![GitHub followers](https://img.shields.io/github/followers/prasantdev?label=Prasant&style=social)](https://github.com/prasantdev) [![sololearn](https://img.shields.io/badge/-Sololearn-deepskyblue?logo=sololearn&logoColor=white&color=cornflowerblue&labelColor=grey&style=flat-square)](https://www.sololearn.com/Profile/18228121) [![dev](https://img.shields.io/badge/-DEV.to-deepskyblue?logo=devdotto&logoColor=black&color=grey&labelColor=DFDFDF&style=flat-square)](https://dev.to/prasant) [![stackoverflow](https://img.shields.io/badge/-Stackoverflow-deepskyblue?logo=stackoverflow&logoColor=orange&color=grey&labelColor=DFDFDF&style=flat-square)](https://stackoverflow.com/users/16797931/prasant)
+<br>
 
+[![twitter](https://img.shields.io/badge/-Twitter-deepskyblue?logo=twitter&logoColor=blue&color=blue&labelColor=white&style=flat-square)](https://twitter.com/prasant_dev)
+[![instgram](https://img.shields.io/badge/-Instagram-deepskyblue?logo=instagram&logoColor=hotpink&color=cornflowerblue&labelColor=white&style=flat-square)](https://www.instagram.com/dev.prasant/)
 ### Projects
 
 - [Learns](https://learns.js.org/) - [https://learns.js.org/](https://learns.js.org/)
