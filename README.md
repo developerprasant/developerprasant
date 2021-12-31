@@ -14,9 +14,9 @@ I am Prasant a self taught programmer.
 
 - [Learns](https://learns.js.org/) - [https://learns.js.org/](https://learns.js.org/)
 - [LazyCoder](https://lazycoder.js.org/) - [https://lazycoder.js.org/](https://lazycoder.js.org/)
-- [Aalsa chatbot](https://developerprasant.github.io/Aalsa-previewer/) - [https://prasantdev.github.io/Aalsa-previewer/](https://developerprasant.github.io/Aalsa-previewer/)
+- [Aalsa chatbot](https://developerprasant.github.io/Aalsa-previewer/) - [https://developerprasant.github.io/Aalsa-previewer/](https://developerprasant.github.io/Aalsa-previewer/)
 - [Aalsa Discord Bot](https://discord.com/oauth2/authorize?client_id=852560696482463744&scope=bot&permissions=8589934583) - [https://discord.com/oauth2/authorize?client_id=852560696482463744&scope=bot&permissions=8589934583](https://discord.com/oauth2/authorize?client_id=852560696482463744&scope=bot&permissions=8589934583)
-- [Smash Problems](https://developerprasant.github.io/smash-problems/) - [https://prasantdev.github.io/smash-problems/](https://developerprasant.github.io/smash-problems/)
+- [Smash Problems](https://developerprasant.github.io/smash-problems/) - [https://developerprasant.github.io/smash-problems/](https://developerprasant.github.io/smash-problems/)
 - [Learns node package](https://prasant.vercel.app/) - [https://prasant.vercel.app/](https://prasant.vercel.app/)
 
 ### stats
