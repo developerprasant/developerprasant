@@ -5,7 +5,7 @@ I am Prasant a self taught programmer.
 <br>
 <hr>
 
-[![GitHub followers](https://img.shields.io/github/followers/developerprasant?label=Prasant&style=social)](https://github.com/developerprasant) [![sololearn](https://img.shields.io/badge/-Sololearn-deepskyblue?logo=sololearn&logoColor=white&color=cornflowerblue&labelColor=grey&style=flat-square)](https://www.sololearn.com/Profile/18228121) [![dev](https://img.shields.io/badge/-DEV.to-deepskyblue?logo=devdotto&logoColor=black&color=grey&labelColor=DFDFDF&style=flat-square)](https://dev.to/prasant) [![stackoverflow](https://img.shields.io/badge/-Stackoverflow-deepskyblue?logo=stackoverflow&logoColor=orange&color=grey&labelColor=DFDFDF&style=flat-square)](https://stackoverflow.com/users/16797931/prasant)
+[![GitHub followers](https://img.shields.io/github/followers/theprasant?label=Prasant&style=social)](https://github.com/theprasant) [![sololearn](https://img.shields.io/badge/-Sololearn-deepskyblue?logo=sololearn&logoColor=white&color=cornflowerblue&labelColor=grey&style=flat-square)](https://www.sololearn.com/Profile/18228121) [![dev](https://img.shields.io/badge/-DEV.to-deepskyblue?logo=devdotto&logoColor=black&color=grey&labelColor=DFDFDF&style=flat-square)](https://dev.to/prasant) [![stackoverflow](https://img.shields.io/badge/-Stackoverflow-deepskyblue?logo=stackoverflow&logoColor=orange&color=grey&labelColor=DFDFDF&style=flat-square)](https://stackoverflow.com/users/16797931/prasant)
 <br>
 
 [![twitter](https://img.shields.io/badge/-Twitter-deepskyblue?logo=twitter&logoColor=blue&color=blue&labelColor=white&style=flat-square)](https://twitter.com/decodeprasant)
@@ -14,16 +14,16 @@ I am Prasant a self taught programmer.
 
 - [Learns](https://learns.js.org/) - [https://learns.js.org/](https://learns.js.org/)
 - [LazyCoder](https://lazycoder.js.org/) - [https://lazycoder.js.org/](https://lazycoder.js.org/)
-- [Aalsa chatbot](https://developerprasant.github.io/Aalsa-previewer/) - [https://developerprasant.github.io/Aalsa-previewer/](https://developerprasant.github.io/Aalsa-previewer/)
+- [Aalsa chatbot](https://theprasant.github.io/Aalsa-previewer/) - [https://theprasant.github.io/Aalsa-previewer/](https://theprasant.github.io/Aalsa-previewer/)
 - [Aalsa Discord Bot](https://discord.com/oauth2/authorize?client_id=852560696482463744&scope=bot&permissions=8589934583) - [https://discord.com/oauth2/authorize?client_id=852560696482463744&scope=bot&permissions=8589934583](https://discord.com/oauth2/authorize?client_id=852560696482463744&scope=bot&permissions=8589934583)
-- [Smash Problems](https://developerprasant.github.io/smash-problems/) - [https://developerprasant.github.io/smash-problems/](https://developerprasant.github.io/smash-problems/)
+- [Smash Problems](https://theprasant.github.io/smash-problems/) - [https://theprasant.github.io/smash-problems/](https://theprasant.github.io/smash-problems/)
 - [Learns node package](https://prasant.vercel.app/) - [https://prasant.vercel.app/](https://prasant.vercel.app/)
 
 ### stats
-[![Prasant's GitHub stats](https://github-readme-stats.vercel.app/api?username=developerprasant&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developerprasant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Prasant's GitHub stats](https://github-readme-stats.vercel.app/api?username=theprasant&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theprasant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://activity-graph.herokuapp.com/graph?username=developerprasant&theme=react-dark)
+![](https://activity-graph.herokuapp.com/graph?username=theprasant&theme=react-dark)
 
 <!--
 **prasantdev/prasantdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
