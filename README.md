@@ -12,7 +12,6 @@ I am Prasant a self taught programmer.
 [![instgram](https://img.shields.io/badge/-Instagram-deepskyblue?logo=instagram&logoColor=hotpink&color=cornflowerblue&labelColor=white&style=flat-square)](https://www.instagram.com/dev.prasant/)
 ### Projects
 
-- [Learns](https://learns.js.org/) - [https://learns.js.org/](https://learns.js.org/)
 - [LazyCoder](https://lazycoder.js.org/) - [https://lazycoder.js.org/](https://lazycoder.js.org/)
 - [Aalsa chatbot](https://theprasant.github.io/Aalsa-previewer/) - [https://theprasant.github.io/Aalsa-previewer/](https://theprasant.github.io/Aalsa-previewer/)
 - [Aalsa Discord Bot](https://discord.com/oauth2/authorize?client_id=852560696482463744&scope=bot&permissions=8589934583) - [https://discord.com/oauth2/authorize?client_id=852560696482463744&scope=bot&permissions=8589934583](https://discord.com/oauth2/authorize?client_id=852560696482463744&scope=bot&permissions=8589934583)
