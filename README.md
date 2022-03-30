@@ -10,6 +10,9 @@ I am Prasant a self taught programmer.
 
 [![twitter](https://img.shields.io/badge/-Twitter-deepskyblue?logo=twitter&logoColor=blue&color=blue&labelColor=white&style=flat-square)](https://twitter.com/decodeprasant)
 [![instgram](https://img.shields.io/badge/-Instagram-deepskyblue?logo=instagram&logoColor=hotpink&color=cornflowerblue&labelColor=white&style=flat-square)](https://www.instagram.com/dev.prasant/)
+
+
+[![wakatime](https://wakatime.com/badge/user/59f71b89-fee1-4f55-a362-c65c0313c791.svg)](https://wakatime.com/@59f71b89-fee1-4f55-a362-c65c0313c791)
 ### Projects
 
 - [LazyCoder](https://lazycoder.js.org/) - [https://lazycoder.js.org/](https://lazycoder.js.org/)
@@ -23,18 +26,3 @@ I am Prasant a self taught programmer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theprasant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://activity-graph.herokuapp.com/graph?username=theprasant&theme=react-dark)
-
-<!--
-**prasantdev/prasantdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
