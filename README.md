@@ -9,7 +9,7 @@ I am Prasant a self taught programmer.
 <br>
 
 [![twitter](https://img.shields.io/badge/-Twitter-deepskyblue?logo=twitter&logoColor=blue&color=blue&labelColor=white&style=flat-square)](https://twitter.com/decodeprasant)
-[![instgram](https://img.shields.io/badge/-Instagram-deepskyblue?logo=instagram&logoColor=hotpink&color=cornflowerblue&labelColor=white&style=flat-square)](https://www.instagram.com/dev.prasant/)
+[![instgram](https://img.shields.io/badge/-Instagram-deepskyblue?logo=instagram&logoColor=hotpink&color=cornflowerblue&labelColor=white&style=flat-square)](https://www.instagram.com/decodeprasant/)
 
 
 [![wakatime](https://wakatime.com/badge/user/59f71b89-fee1-4f55-a362-c65c0313c791.svg)](https://wakatime.com/@59f71b89-fee1-4f55-a362-c65c0313c791)
