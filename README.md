@@ -15,6 +15,7 @@ I am Prasant a self taught programmer.
 [![wakatime](https://wakatime.com/badge/user/59f71b89-fee1-4f55-a362-c65c0313c791.svg)](https://wakatime.com/@59f71b89-fee1-4f55-a362-c65c0313c791)
 ### Projects
 
+- [Learns](https://learns.up.railway.app/) - https://learns.up.railway.app/ (In dev)
 - [LazyCoder](https://lazycoder.js.org/) - [https://lazycoder.js.org/](https://lazycoder.js.org/)
 - [Aalsa chatbot](https://theprasant.github.io/Aalsa-previewer/) - [https://theprasant.github.io/Aalsa-previewer/](https://theprasant.github.io/Aalsa-previewer/)
 - [Aalsa Discord Bot](https://discord.com/oauth2/authorize?client_id=852560696482463744&scope=bot&permissions=8589934583) - [https://discord.com/oauth2/authorize?client_id=852560696482463744&scope=bot&permissions=8589934583](https://discord.com/oauth2/authorize?client_id=852560696482463744&scope=bot&permissions=8589934583)
