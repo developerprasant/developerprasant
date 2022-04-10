@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img width="32px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>
 <img src="https://cdn.discordapp.com/emojis/843572666015416340.gif?v=1" align="right">
 
 I am Prasant, a self taught programmer. 
