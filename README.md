@@ -17,7 +17,7 @@ I am Prasant, a self taught programmer.
 
 - [Code runner](https://coderunnerbot.vercel.app/) (twitter bot) - https://coderunnerbot.vercel.app/
 - [Tweet Quotify](https://twitter.com/tweetquotify) (twitter bot) - https://twitter.com/tweetquotify
-- [Learns](https://learns.up.railway.app/) - https://learns.js.org/ (In dev)
+- [Learns](https://learns.js.org/) - https://learns.js.org/ (In dev)
 - [LazyCoder](https://lazycoder.js.org/) - [https://lazycoder.js.org/](https://lazycoder.js.org/)
 - [Aalsa chatbot](https://theprasant.github.io/Aalsa-previewer/) - [https://theprasant.github.io/Aalsa-previewer/](https://theprasant.github.io/Aalsa-previewer/)
 - [Aalsa Discord Bot](https://discord.com/oauth2/authorize?client_id=852560696482463744&scope=bot&permissions=8589934583) - [https://discord.com/oauth2/authorize?client_id=852560696482463744&scope=bot&permissions=8589934583](https://discord.com/oauth2/authorize?client_id=852560696482463744&scope=bot&permissions=8589934583)
