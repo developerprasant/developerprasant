@@ -13,6 +13,7 @@ I am Prasant, a self taught programmer.
 
 
 [![wakatime](https://wakatime.com/badge/user/59f71b89-fee1-4f55-a362-c65c0313c791.svg)](https://wakatime.com/@prasant)
+
 ### Projects
 
 - [Code runner](https://coderunnerbot.vercel.app/) (twitter bot) - https://coderunnerbot.vercel.app/
@@ -24,10 +25,15 @@ I am Prasant, a self taught programmer.
 - [Smash Problems](https://theprasant.github.io/smash-problems/) - [https://theprasant.github.io/smash-problems/](https://theprasant.github.io/smash-problems/)
 - [Learns node package](https://prasant.vercel.app/) - [https://prasant.vercel.app/](https://prasant.vercel.app/)
 
-### stats
-[![Prasant's GitHub stats](https://github-readme-stats.vercel.app/api?username=theprasant&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theprasant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Stats
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=theprasant&show_icons=true&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&include_all_commits=true">
 
-![](https://activity-graph.herokuapp.com/graph?username=theprasant&theme=react-dark)
+<img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=theprasant&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&sideLabels=67ADD3&currStreakLabel=80CCED">
+
+![](https://activity-graph.herokuapp.com/graph?username=theprasant&theme=react-dark&bg_color=ffffff00&hide_border=true&point=00bfff&color=138fd1)
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=theprasant&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&layout=compact">
+
+### Support
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3CNNRM)
