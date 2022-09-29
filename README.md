@@ -28,3 +28,5 @@ I am Prasant, a self taught programmer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theprasant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://activity-graph.herokuapp.com/graph?username=theprasant&theme=react-dark)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3CNNRM)
