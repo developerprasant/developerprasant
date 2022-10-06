@@ -1,7 +1,9 @@
 ## Hi there <img width="32px" src="https://raw.githubusercontent.com/theprasant/theprasant/master/wave.gif"/>
 <img src="https://cdn.discordapp.com/emojis/843572666015416340.gif?v=1" align="right">
 
-I am Prasant, a self taught programmer. 
+**I am Prasant, a**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=student;self+taught+programmer;curious+developer)](https://git.io/typing-svg)
 <br>
 <hr>
 
